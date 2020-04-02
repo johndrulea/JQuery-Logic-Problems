@@ -24,6 +24,8 @@ function init() {
     var more = mathy.greater(32154, 684684);
     console.log(more);
 
+    console.log(mathy.less(2,400));
+
     console.log(mathy.greater(-1, -2));
 
     console.log("Is even:: " + mathy.isEven(40));
